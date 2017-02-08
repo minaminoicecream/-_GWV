@@ -9,4 +9,4 @@
   1.「direct.py」を任意のディレクトリに置く．  
   2.以下のコマンドを実行する．  
     
-  $ python2.7 direct.py  　
+   $ python2.7 direct.py  　
