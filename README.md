@@ -1,10 +1,9 @@
 # READ ME
 
-#環境
-===
-  ・開発言語　Python2.7
-  ・実行環境　Tera Term
-  ・OS　　　　Windows7
+##環境
+  *開発言語　Python2.7
+  *実行環境　Tera Term
+  *OS　　　　Windows7
   
 #利用方法　　
   1.「direct.py」を任意のディレクトリに置く．
